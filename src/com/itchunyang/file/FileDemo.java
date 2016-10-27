@@ -6,13 +6,13 @@ import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
+import static com.itchunyang.file.Mac.PARENT_DIR;
 
 /**
  * Created by luchunyang on 2016/10/26.
  */
 public class FileDemo {
 
-    public static final String PARENT_DIR = "/Users/luchunyang/demospace/File";
     public static final String JSON = "json.txt";
 
     //快捷键psvm
