@@ -6,4 +6,5 @@ package com.itchunyang.file;
 public class Mac {
     public static final String PARENT_DIR = "/Users/luchunyang/demospace/File";
     public static final String TEXT_ABC = "abc.txt";
+    public static final String MOVIE_39MB="/Users/luchunyang/Movies/fc.mp4";
 }

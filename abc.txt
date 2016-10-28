@@ -1,2 +1,1 @@
-trueA99.9false
-100,格式化文本
+hello BufferedWriter
